@@ -1,6 +1,0 @@
-name: this name is from git config-service file
-jdbc-config:
- host: mysql
- port: 9090
- username: username
- password: password
