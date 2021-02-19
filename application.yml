@@ -10,4 +10,4 @@ spring:
     port: 5672
     username: guest
     password: guest
-message: new updated message 3
+message: new updated message 4
