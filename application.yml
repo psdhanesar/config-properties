@@ -4,3 +4,10 @@ management:
   endpoints:
     web:
       exposure.include: *
+
+
+# Eureka
+eureka.client.service-url.defaultZone: http://service-registry:8761/eureka/
+
+# Zipkin
+spring.zipkin.base-url: http://zipkin-server:9411/
