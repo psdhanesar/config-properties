@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e77b69a-93c7-47ef-a126-334df909ddbe" name="Default Changelist" comment="Merge branch 'main' of https://github.com/psdhanesar/config-properties into main&#10;&#10;# Conflicts:&#10;#&#9;application.yml&#10;#&#9;movie-catalog-service.properties">
-      <change afterPath="$PROJECT_DIR$/application-docker.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-service.properties" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-server.properties" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hysterix-dashboard.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hysterix-dashboard.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory-service.properties" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service.properties" beforeDir="false" afterPath="$PROJECT_DIR$/order-service.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service.properties" beforeDir="false" afterPath="$PROJECT_DIR$/product-service.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zipkin-server.properties" beforeDir="false" afterPath="$PROJECT_DIR$/zipkin-server.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1613696873357</updated>
       <workItem from="1613696874572" duration="2766000" />
-      <workItem from="1614199137518" duration="28401000" />
+      <workItem from="1614199137518" duration="29390000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'main' of https://github.com/psdhanesar/config-properties into main&#10;&#10;# Conflicts:&#10;#&#9;application.yml&#10;#&#9;movie-catalog-service.properties">
       <created>1614199777016</created>
