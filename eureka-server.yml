@@ -1,0 +1,15 @@
+eureka:
+    client:
+        fetchRegistry: false
+        registerWithEureka: false
+        serviceUrl:
+            defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
+    instance:
+        hostname: localhost
+info:
+    app:
+        description: This is service registry using eureka
+        name: eureka-server
+        version: 1.0.0
+server:
+    port: ${SERVER_PORT:8761}
